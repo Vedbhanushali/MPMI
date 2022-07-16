@@ -23,6 +23,9 @@ Microsoft SQL Server management
 4) After import copy your connection string and paste it in the web.config file.
 5) For payment module create your account in razorpay and if test or live mode create keys and paste it in razorpaycheckout.aspx.cs and razorpaycallback.aspx.cs files
 
+#### NOTE
+Product is underdevelopment and can be improved.
+
 ### Screen shot of product
 ![temp](https://github.com/Vedbhanushali/MPMI/blob/main/img_product/1.png?raw=true "Title")
 ![temp](https://github.com/Vedbhanushali/MPMI/blob/main/img_product/2.png?raw=true "Title")
