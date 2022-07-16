@@ -16,11 +16,12 @@ visual studio </br>
 Microsoft SQL Server management 
 
 ### Cofigure project
-1) clone the project
-2) open visual studion and click MPMI.sln
-3) open SSMS and import the database MPMI.bacpac from the project file MPMI/database_setup folder
-4) after import copy your connection string and paste it in the web.config file
-5) for payment module create your account in razorpay and if test or live mode create keys and paste it in razorpaycheckout.aspx.cs and razorpaycallback.aspx.cs files
+1) Clone the project.
+2) Open visual studio and click MPMI.sln .
+3) Open SSMS and import the database MPMI.bacpac from the project file MPMI/database_setup folder.
+4) Create credential in admintable which will used to access admin panel in web application.
+4) After import copy your connection string and paste it in the web.config file.
+5) For payment module create your account in razorpay and if test or live mode create keys and paste it in razorpaycheckout.aspx.cs and razorpaycallback.aspx.cs files
 
 ### Screen shot of product
 ![temp](https://github.com/Vedbhanushali/MPMI/blob/main/img_product/1.png?raw=true "Title")
